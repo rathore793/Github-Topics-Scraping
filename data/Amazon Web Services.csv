@@ -1,0 +1,21 @@
+Username,Repo Name,Repo URL,Stars
+localstack,localstack,https://github.com/topics/localstack/localstack,47400
+serverless,serverless,https://github.com/topics/serverless/serverless,44800
+bregman-arie,devops-exercises,https://github.com/topics/bregman-arie/devops-exercises,44200
+donnemartin,data-science-ipython-notebooks,https://github.com/topics/donnemartin/data-science-ipython-notebooks,25200
+pulumi,pulumi,https://github.com/topics/pulumi/pulumi,16200
+serverless-stack,sst,https://github.com/topics/serverless-stack/sst,15300
+kubernetes-sigs,kubespray,https://github.com/topics/kubernetes-sigs/kubespray,14100
+ramitsurana,awesome-kubernetes,https://github.com/topics/ramitsurana/awesome-kubernetes,14000
+aws,aws-cli,https://github.com/topics/aws/aws-cli,13900
+mozilla,sops,https://github.com/topics/mozilla/sops,13100
+donnemartin,awesome-aws,https://github.com/topics/donnemartin/awesome-aws,11500
+caprover,caprover,https://github.com/topics/caprover/caprover,10500
+GoogleCloudPlatform,terraformer,https://github.com/topics/GoogleCloudPlatform/terraformer,10300
+aws,aws-cdk,https://github.com/topics/aws/aws-cdk,10300
+apereo,cas,https://github.com/topics/apereo/cas,10200
+aws,chalice,https://github.com/topics/aws/chalice,9800
+aws-amplify,amplify-js,https://github.com/topics/aws-amplify/amplify-js,9200
+infracost,infracost,https://github.com/topics/infracost/infracost,9200
+google,go-cloud,https://github.com/topics/google/go-cloud,9100
+aws,serverless-application-model,https://github.com/topics/aws/serverless-application-model,9000
