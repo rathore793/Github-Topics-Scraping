@@ -25,3 +25,9 @@ libgdx,libgdx,18300,https://github.com/libgdx/libgdx
 - [Github Topics](https://github.com/topics)
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - Building Webscrapping project by Jovian. [link](https://www.youtube.com/watch?v=RKsLLG-bzEY)
+
+<nav>
+<a href="https://www.linkedin.com/in/rathore793/">LinkedIn</a> |
+<a href="https://github.com/rathore793">Github</a> |
+<a href="https://www.novypro.com/profile_projects/rahulrathore">NovyPro</a> |
+</nav>
