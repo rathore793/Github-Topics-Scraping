@@ -1,4 +1,4 @@
-# Scraping Top Repositories for Topics on GitHub
+# Scraping Github Topics and Their Top Repositories.
 
 ## Github
 
